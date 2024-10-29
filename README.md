@@ -1,22 +1,21 @@
 # ¡Hola 👋! Soy Hugo Avila
 ### Full Stack Developer
 
-### **[ Perfil ]**
 🌱 Actualmente me encuentro mejorando mis habilidades en ciberseguridad<br>
 📗 Estas son algunas de las tecnologías que manejo: JavaScript, TypeScript, React, NextJS, Astro, Tailwind, Redux, NodeJS, Express, PostgreSQL, Sequelize, Prisma, MongoDB, HTML, CSS.<br>
 📬 Puedes contactarme en [hugoavila.dev@gmail.com](hugoavila.dev@gmail.com)
 
-### **[Cuenta principal de GitHub]**
+#### **Cuenta principal de GitHub**
 🔗 [https://github.com/hugok2k/](https://github.com/hugok2k/)
 
-### **[ Portfolio ]**
+#### Portfolio
 🔗 [https://hugoavila.dev/](https://hugoavila.dev/)
 
 <a href='https://hugoavila.dev' style='display:flex;flex-direction:column;justify-content:flex-start'>
   <img src="https://hugoavila.dev/images/og.webp" style='width:400px' />
 </a>
 
-### **[ Herramientas ]**
+### Herramientas
 
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -31,10 +30,5 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 </p>
-
-### **[ GitHub Stats ]**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugok2k&layout=compact&theme=radical#gh-dark-mode-only)](https://github.com/hugok2k/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugok2k&layout=compact&theme=default#gh-light-mode-only)](https://github.com/hugok2k/github-readme-stats#gh-light-mode-only)
 
 
