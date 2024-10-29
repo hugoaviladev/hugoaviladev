@@ -6,6 +6,9 @@
 📗 Estas son algunas de las tecnologías que manejo: JavaScript, TypeScript, React, NextJS, Astro, Tailwind, Redux, NodeJS, Express, PostgreSQL, Sequelize, Prisma, MongoDB, HTML, CSS.<br>
 📬 Puedes contactarme en [hugoavila.dev@gmail.com](hugoavila.dev@gmail.com)
 
+### **[Cuenta principal de GitHug]**
+🔗 [https://github.com/hugok2k/](https://github.com/hugok2k/)
+
 ### **[ Portfolio ]**
 🔗 [https://hugoavila.dev/](https://hugoavila.dev/)
 
